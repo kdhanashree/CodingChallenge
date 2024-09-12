@@ -1,1 +1,1 @@
-This Repository consists the daily challenge Codes I have submitted
+This Repo consists of the code I have submitted for Daily Coding Challenge
